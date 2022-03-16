@@ -1,0 +1,16 @@
+#contenedor{
+width: 900px;
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+#contenedor article{
+width: 210px;
+padding: 5px;
+
+}
+#contenedor article img{
+    width: 210px; ;
+
+}

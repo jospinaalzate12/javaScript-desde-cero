@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&family=Raleway:wght@300;400&display=swap');
+*{ /* reset */
+    margin: 0px; padding: 0px; box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    font-family: Nunito, sans-serif;
+    font-weight: 300;
+    color: #444;
+    background-color: #e2efdf;
+    width: 800px;
+    margin: auto;
+    padding: 80px 24px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#caja{
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    position: relative;
+    top: 100px;
+}
+.separador{
+    width: 13px;
+    display:inline-block;
+}
